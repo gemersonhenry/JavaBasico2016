@@ -1,3 +1,8 @@
+/**
+ * VARIABLES, CONSTANTES, OPERADORES Y ALMACENAMIENTO DE LA INFORMACIÓN
+ * @author USER
+ */
+
 public static void main(String[] args){
 
     // TIPOS DE DATOS PRIMITIVOS

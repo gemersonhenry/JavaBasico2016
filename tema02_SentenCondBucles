@@ -6,14 +6,21 @@
  
 public static void main(String[] args){
         
-    // Ejercicio 1
+    /*
+    Ejercicio 1: Realizar la comparación de números para determinar el mayor. También para determinar si
+    un número esta en el rango de 10 a 50
+    */
 
+    /*
+    Ejercicio 2: Imprimir en consola la suceción de fibonacci de n terminos donde n es una variable
+    */
 
-    // Ejercicio 2
-
-
-    // Ejercicio 3
-
-
-    // Ejercicio 4
+    /*
+    Ejercicio 3: Realizar un procedimiento para mostrar la siguiente sucesión en consola: 
+    3,5,8,10,13,15,18,20,23,25
+    */
+    
+    /*
+    Ejercicio 4: Pedir números y sumarlos hasta que se teclee cero.
+    */
 }

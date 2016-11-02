@@ -6,14 +6,21 @@
  
 public static void main(String[] args){
         
-    // Ejercicio 1
+    /*
+    Ejercicio 1: Contar cuantas "r" hay en un determinado texto.
+    */
 
+    /*
+    Ejercicio 2: Introducir 5 números y mostrar en consola el mayor y el menor.
+    */
 
-    // Ejercicio 2
+    /*
+    Ejercicio 3: Realizar un procedimiento que me permita escoger el cálculo del área de una figura geométrica
+    (Cuadrado, rectángulo, triángulo, círculo) y te permita terminar al digitar el caracter "e".
+    */
 
-
-    // Ejercicio 3
-
-
-    // Ejercicio 4
+    /*
+    Ejercicio 4: Realizar un validador simple de contraseña que no me permita ejecutar un código hasta ingresar
+    la contraseña correcta, luego me pida ingresar un número entero y mostrarlo en consola con sus dígitos invertidos.
+    */
 }

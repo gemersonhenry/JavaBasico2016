@@ -17,8 +17,11 @@ public static void main(String[] args){
     final int p1;
 
     /*
-    Ejercicio 1: 
+    Ejercicio 1: Definir 4 variables enteras con las cuales se realizarán las 4 operaciones básicas,
+    además construir expresiones verdaderas y falsas utilizando multiples variables.
     */
 
-    // Ejercicio 2
+    /*
+    Ejercicio 2: Calcular los valores númericos máximos y minimos de cada variable de tipo número
+    */
 }

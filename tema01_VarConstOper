@@ -1,0 +1,19 @@
+public static void main(String[] args){
+
+    // TIPOS DE DATOS PRIMITIVOS
+    byte n1;
+    short n2;
+    int n3;
+    long n4;
+    float n5;
+    double n6;
+    char x1;
+    boolean x2;
+    final int p1;
+
+    /*
+    Ejercicio 1: 
+    */
+
+    // Ejercicio 2
+}

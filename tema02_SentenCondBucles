@@ -7,13 +7,40 @@
 public static void main(String[] args){
         
     /*
-    Ejercicio 1: Realizar la comparación de números para determinar el mayor. También para determinar si
-    un número esta en el rango de 10 a 50
-    */
-
-    /*
-    Ejercicio 2: Imprimir en consola la suceción de fibonacci de n terminos donde n es una variable
-    */
+        Ejercicio 1: Realizar la comparación de números 
+        para determinar el mayor. También para determinar si
+        un número esta en el rango de 10 a 50
+         */
+        int a, b, c;
+        a = 20;
+        b = 20;
+        if ( a > b ) {
+            System.out.println("El mayor es: " + a);
+        } else if( a < b ){
+            System.out.println("El mayor es: " + b);
+        } else if ( a == b ){
+            System.out.println("Ambos valores son iguales");
+        } 
+        
+        /*
+        Ejercicio 2: Imprimir en consola la suceción 
+        de fibonacci de n terminos donde n es una variable
+         */
+        int n = 8;
+        int i = 0;
+        a = 0;
+        b = 1;
+        System.out.println(a+",");
+        System.out.println(b+",");
+        while ( i < 8) {            
+            i = i + 1;
+            c = a + b;
+            System.out.println(c+",");
+            a = b;
+            b = c;
+        }
+        System.out.println(i);
+        
 
     /*
     Ejercicio 3: Realizar un procedimiento para mostrar la siguiente sucesión en consola: 

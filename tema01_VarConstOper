@@ -15,7 +15,33 @@ public static void main(String[] args){
     char x1;
     boolean x2;
     final int p1;
+    
+    System.out.println("-----------------");
+    /*
+    Ejercicio 1: Definir 4 variables enteras con las cuales se 
+    realizarán las 4 operaciones básicas,
+    además construir expresiones verdaderas y falsas utilizando 
+    multiples variables.
+     */
 
+    p1 = 5;
+    // p1 = 9; no se puede reasignar un nuevo valor
+
+    int a, b, resultado;
+    double c, d, x;
+
+    a = 15;
+    b = 4;
+    x = (double) a / b; // "=" significa asignación
+    System.out.println(x);
+
+    c = 50;
+    d = 16;
+    x = c / d;
+    System.out.println(x);
+
+    System.out.println(true);
+    System.out.println(x==3.125);
     /*
     Ejercicio 1: Definir 4 variables enteras con las cuales se realizarán las 4 operaciones básicas,
     además construir expresiones verdaderas y falsas utilizando multiples variables.
